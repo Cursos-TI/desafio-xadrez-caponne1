@@ -28,4 +28,16 @@ do{
     i++;
 } while(i <= 8);
 
+int j = 1;
+printf("\n\n");
+printf("cavalo se move: \n");
+for(i = 1; i <= 1; i++)
+{
+    while (j <= 2)
+    {
+        printf("para baixo \n");
+        j++;
+    }
+    printf("esquerda");
+}
 }
